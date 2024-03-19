@@ -19,6 +19,7 @@ function addDestinationInfo(document, name, diameter, star, distance, moons, ima
                  
                  ;
                  console.log(imageUrl);
+                 //pushing
                    
     
 }
